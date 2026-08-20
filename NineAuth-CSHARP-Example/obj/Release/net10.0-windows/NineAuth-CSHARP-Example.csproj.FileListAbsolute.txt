@@ -1,0 +1,17 @@
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\bin\Release\net10.0-windows\NineAuth-CSHARP-Example.exe
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\bin\Release\net10.0-windows\NineAuth-CSHARP-Example.deps.json
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\bin\Release\net10.0-windows\NineAuth-CSHARP-Example.runtimeconfig.json
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\bin\Release\net10.0-windows\NineAuth-CSHARP-Example.dll
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\bin\Release\net10.0-windows\NineAuth-CSHARP-Example.pdb
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth_CSHARP_Example.Form1.resources
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.sourcelink.json
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.dll
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\refint\NineAuth-CSHARP-Example.dll
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.pdb
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\NineAuth-CSHARP-Example.genruntimeconfig.cache
+C:\Users\Jesus\Desktop\NineAuth\NineAuth-CSHARP-Example\NineAuth-CSHARP-Example\obj\Release\net10.0-windows\ref\NineAuth-CSHARP-Example.dll
