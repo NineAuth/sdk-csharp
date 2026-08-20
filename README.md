@@ -1,5 +1,5 @@
-﻿<div align="center">
-  <img src="assets/cover.png" alt="NineAuth C# SDK" width="100" height="100" />
+﻿﻿<div align="center">
+  <img src="https://github.com/Deedzera/NineAuth/blob/main/assets/capa-sdk-csharp.png" alt="NineAuth C# SDK" width="120" height="120" />
   <br /><br />
   <p><strong>NineAuth C# (.NET) SDK &amp; Reference Implementation</strong></p>
   <p>Official client library and ready-to-run desktop example for .NET 8, .NET Framework 4.8+, Unity, WinForms, and WPF applications.</p>
